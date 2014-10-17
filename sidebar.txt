@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shv:home|Door43 (shv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shv|d43-shv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shv/archive/master.zip|d43-shv.zip]]
+
+**Recent Changes**
+{{changes>ns = shv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shv|Ethnologue data]]
+
